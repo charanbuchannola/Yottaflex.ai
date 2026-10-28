@@ -1,0 +1,171 @@
+{
+  "configuration": {
+    "appointments_count": 1000,
+    "docks_per_facility": 10,
+    "facilities_count": 2,
+    "operating_hours": "06:00-22:00",
+    "simulation_days": 7
+  },
+  "dataset_profile": "STARTER",
+  "entity_counts": {
+    "allocation_decisions": 1000,
+    "appointment_shipments": 1000,
+    "appointments": 1000,
+    "carriers": 10,
+    "check_in_events": 4735,
+    "dock_handling_capabilities": 11,
+    "docks": 20,
+    "facilities": 2,
+    "handling_requirements": 5,
+    "labor_shifts": 28,
+    "shipment_handling_requirements": 423,
+    "shipments": 1000,
+    "vehicles": 40,
+    "yard_slots": 30
+  },
+  "files": {
+    "data/ground_truth/ground_truth.csv": {
+      "sha256": "6b66cbf7ec0c0e2fe68e329f1daf980afc0e7376721999a5b063c927a8b6de63",
+      "size_bytes": 1343
+    },
+    "data/ground_truth/ground_truth.json": {
+      "sha256": "50d534def5d9f8be41555498bf7795adb566bce848e0662eef0d0aa50b136586",
+      "size_bytes": 2688
+    },
+    "exports/csv/allocation_decisions.csv": {
+      "sha256": "73903b51267ca2530e617c192264f367a662eabcf3b098d39fdaa12da7433eef",
+      "size_bytes": 211929
+    },
+    "exports/csv/appointment_shipments.csv": {
+      "sha256": "547cd56d8faa9ddc4a1a8b172863be294e8ee7af36f3f979c2b61f9d9312ae6f",
+      "size_bytes": 34028
+    },
+    "exports/csv/appointments.csv": {
+      "sha256": "a9952bdf2ac05f37caadd110103e62135a658756248d935885cd0c4e05121f00",
+      "size_bytes": 149518
+    },
+    "exports/csv/carriers.csv": {
+      "sha256": "32d692148c4dcbd7e0629ba0062d5103e40d280b7675bb9a26d2281ae4db2429",
+      "size_bytes": 505
+    },
+    "exports/csv/check_in_events.csv": {
+      "sha256": "6a000c03308b5cfa12df2125d07c3a8102efa7e80298b6ef98bc5e6218bda960",
+      "size_bytes": 603118
+    },
+    "exports/csv/dock_handling_capabilities.csv": {
+      "sha256": "168b9300e04487c8a62954a15dcbfa46a5989c74f79ce5ef6e328ae1c965d5e1",
+      "size_bytes": 310
+    },
+    "exports/csv/docks.csv": {
+      "sha256": "4af4d8cee05479d3df46014e5ff39ae36b2c676a08c960f10a515157fda746a4",
+      "size_bytes": 1366
+    },
+    "exports/csv/facilities.csv": {
+      "sha256": "efafd4e670fcce25e7d4bd7b651859e7a412360925ac934f51807deb6b8749b5",
+      "size_bytes": 226
+    },
+    "exports/csv/handling_requirements.csv": {
+      "sha256": "933f161839906f95b2f32b853d1f1ad56bb7529cd6979089164511b2dd791729",
+      "size_bytes": 432
+    },
+    "exports/csv/labor_shifts.csv": {
+      "sha256": "9d8626f1e2b0f86d6fd8deb735cc995b3638be330caa3ee6a083c8d6e7e72c01",
+      "size_bytes": 2708
+    },
+    "exports/csv/shipment_handling_requirements.csv": {
+      "sha256": "19a8b6963c8873a568bad50894c66e7fbb94f39e6f0a2c0cb95463fafc4a6eff",
+      "size_bytes": 10603
+    },
+    "exports/csv/shipments.csv": {
+      "sha256": "11b9fa4a4d2b77bd893aaa70976be4831bda477fe60d74025431197a4f389120",
+      "size_bytes": 100835
+    },
+    "exports/csv/vehicles.csv": {
+      "sha256": "87720b7728e511eee87bb3bc28c29cde003d1f90fd6b01807d3aa9718b5194ec",
+      "size_bytes": 1695
+    },
+    "exports/csv/yard_slots.csv": {
+      "sha256": "b3f51f42aa8fc10ca4bc1ed5cba4b8380d8c1664fa6ae3b2f8405c51cf78dd5c",
+      "size_bytes": 1449
+    },
+    "exports/json/allocation_decisions.json": {
+      "sha256": "0ad8cd365321affb9c059aea64307d347d79882dfd3e05f142b4921c0be85dd5",
+      "size_bytes": 474692
+    },
+    "exports/json/appointment_shipments.json": {
+      "sha256": "74f57fc45929a123f99e000b6f002927944ad99dc8dc1b643e2a3f8102ee1e33",
+      "size_bytes": 92003
+    },
+    "exports/json/appointments.json": {
+      "sha256": "0a747f38ef27d448345e3db159b656248a8123393ffc41bd22079c77f1f0f706",
+      "size_bytes": 490957
+    },
+    "exports/json/carriers.json": {
+      "sha256": "1d5ea567872dd3685ad3f7db00cb58ed2701713983ad786c13dcaa340f806df2",
+      "size_bytes": 1341
+    },
+    "exports/json/check_in_events.json": {
+      "sha256": "7a4aa2d61f5a381475ac0cdddefc2bb251fabb349eb2427635eb0db50c40ba8b",
+      "size_bytes": 1398514
+    },
+    "exports/json/dock_handling_capabilities.json": {
+      "sha256": "0873eadf6055a1173713f98448a96b971e1c0cd1b6310775fd9c7311d13a3d70",
+      "size_bytes": 883
+    },
+    "exports/json/docks.json": {
+      "sha256": "de44c533580e5089a9c134d8f3f59b4d6e33b54aa85f8801f53545614242d805",
+      "size_bytes": 5086
+    },
+    "exports/json/facilities.json": {
+      "sha256": "4ea6edfab8c351935f0ed422c9a84990a28d31528fe3e9a28c86870c091bddd6",
+      "size_bytes": 477
+    },
+    "exports/json/handling_requirements.json": {
+      "sha256": "32e243c74afce1c14c85354d107aab01d5725790d220e19e6694c4164badeed0",
+      "size_bytes": 772
+    },
+    "exports/json/labor_shifts.json": {
+      "sha256": "8ca6036caf6b3f9fd8dace0aeb4fa55ad2d5c02a9eda44929f7b4f254aa5dffb",
+      "size_bytes": 8444
+    },
+    "exports/json/shipment_handling_requirements.json": {
+      "sha256": "05c68bf75e27ca7e033fb5628b7ddfb3b8f8d55752391f2a449b78c12ae68b1e",
+      "size_bytes": 35112
+    },
+    "exports/json/shipments.json": {
+      "sha256": "f684d6fb68ea8160e60d52d1ff516b8fbb16044bed34e9bb5f452289779b7996",
+      "size_bytes": 285745
+    },
+    "exports/json/vehicles.json": {
+      "sha256": "2225f09e27865838e7459805a13a290787d3c24369ad21eee6e4c8266ee51416",
+      "size_bytes": 6595
+    },
+    "exports/json/yard_slots.json": {
+      "sha256": "289894584071617d687fcd4df7190b11aab4546da2fa38fa5f76245b02447c3c",
+      "size_bytes": 5022
+    },
+    "exports/reports/evaluation_metrics.json": {
+      "sha256": "f7ce096484b10171d3f144354780fdccfea4f23b64902873b1eda5e5655e04ba",
+      "size_bytes": 1067
+    },
+    "exports/reports/validation_report.json": {
+      "sha256": "96050c16e022cae2d9d18519c46c6d44d47d888f4d2510ee916a9a10c9559a93",
+      "size_bytes": 5006
+    },
+    "exports/sql/schema.sql": {
+      "sha256": "c64ba2f58ba013d3ed1b55dee66ef959109653d00ec782e8166878979115f70e",
+      "size_bytes": 9490
+    },
+    "exports/sql/seed.sql": {
+      "sha256": "9f6bb6fe2c15c34fc7c346cc0aeee0d90dc5cf26cdd4719ca1e66baccff423c0",
+      "size_bytes": 2576102
+    }
+  },
+  "generated_at": "2026-10-22T00:00:00Z",
+  "generator_version": "0.1.0",
+  "manifest_version": "1.0.0",
+  "schema_version": "2.0.0",
+  "seed": 20261022,
+  "total_bytes": 6520061,
+  "total_files": 34
+}

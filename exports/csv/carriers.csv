@@ -1,0 +1,11 @@
+carrier_id,is_active,name,scac_code
+CARR-001,True,Apex Logistics CARR-001,APE1
+CARR-002,True,Blue Horizon Freight CARR-002,BHR2
+CARR-003,True,Cardinal Express CARR-003,CAR3
+CARR-004,True,Delta Transport CARR-004,DLT4
+CARR-005,True,Eagle Linehaul CARR-005,EAG5
+CARR-006,True,Falcon Logistics CARR-006,FAL6
+CARR-007,True,Golden Gate Hauling CARR-007,GGH7
+CARR-008,True,Highland Freightways CARR-008,HGF8
+CARR-009,True,Ironclad Carriers CARR-009,IRN9
+CARR-010,True,Jupiter Transport CARR-010,JUP0

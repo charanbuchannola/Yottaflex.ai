@@ -1,0 +1,38 @@
+{
+  "anomaly_detection_performance": {
+    "f1_score": 1.0,
+    "false_negatives": 0,
+    "false_positives": 0,
+    "injected_anomalies_count": 7,
+    "precision": 1.0,
+    "recall": 1.0,
+    "true_positives": 7
+  },
+  "calculated_at": "2026-10-22T00:00:00Z",
+  "operational_throughput": {
+    "allocated_appointments": 548,
+    "allocation_rejection_rate": 0.452,
+    "allocation_success_rate": 0.548,
+    "completed_appointments": 547,
+    "rejected_appointments": 452,
+    "rejections_by_cause": {
+      "ERR_INCOMPATIBLE_HAZMAT": 17,
+      "ERR_LABOR_UNAVAILABLE": 435
+    },
+    "total_appointment_requests": 1000
+  },
+  "profile": "STARTER",
+  "resource_utilization": {
+    "dock_utilization_rate": 0.2698,
+    "labor_utilization_rate": 0.5637,
+    "yard_utilization_rate": 0.0815
+  },
+  "seed": 20261022,
+  "service_level_metrics": {
+    "average_vehicle_wait_minutes": 9.73,
+    "early_arrival_rate": 0.66,
+    "p50_vehicle_wait_minutes": 8.0,
+    "p95_vehicle_wait_minutes": 20.7,
+    "unrecorded_no_show_count": 1
+  }
+}

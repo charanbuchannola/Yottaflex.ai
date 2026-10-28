@@ -1,0 +1,282 @@
+[
+  {
+    "carrier_id": "CARR-001",
+    "has_liftgate": true,
+    "license_plate": "GA-1001",
+    "vehicle_id": "VEH-0001",
+    "vehicle_type": "REEFER"
+  },
+  {
+    "carrier_id": "CARR-002",
+    "has_liftgate": false,
+    "license_plate": "GA-1002",
+    "vehicle_id": "VEH-0002",
+    "vehicle_type": "FLATBED"
+  },
+  {
+    "carrier_id": "CARR-003",
+    "has_liftgate": false,
+    "license_plate": "TN-1003",
+    "vehicle_id": "VEH-0003",
+    "vehicle_type": "REEFER"
+  },
+  {
+    "carrier_id": "CARR-004",
+    "has_liftgate": false,
+    "license_plate": "IL-1004",
+    "vehicle_id": "VEH-0004",
+    "vehicle_type": "REEFER"
+  },
+  {
+    "carrier_id": "CARR-005",
+    "has_liftgate": false,
+    "license_plate": "CA-1005",
+    "vehicle_id": "VEH-0005",
+    "vehicle_type": "DRY_VAN"
+  },
+  {
+    "carrier_id": "CARR-006",
+    "has_liftgate": false,
+    "license_plate": "TX-1006",
+    "vehicle_id": "VEH-0006",
+    "vehicle_type": "DRY_VAN"
+  },
+  {
+    "carrier_id": "CARR-007",
+    "has_liftgate": false,
+    "license_plate": "OH-1007",
+    "vehicle_id": "VEH-0007",
+    "vehicle_type": "DRY_VAN"
+  },
+  {
+    "carrier_id": "CARR-008",
+    "has_liftgate": true,
+    "license_plate": "GA-1008",
+    "vehicle_id": "VEH-0008",
+    "vehicle_type": "REEFER"
+  },
+  {
+    "carrier_id": "CARR-009",
+    "has_liftgate": false,
+    "license_plate": "TN-1009",
+    "vehicle_id": "VEH-0009",
+    "vehicle_type": "REEFER"
+  },
+  {
+    "carrier_id": "CARR-010",
+    "has_liftgate": false,
+    "license_plate": "OH-1010",
+    "vehicle_id": "VEH-0010",
+    "vehicle_type": "DRY_VAN"
+  },
+  {
+    "carrier_id": "CARR-001",
+    "has_liftgate": false,
+    "license_plate": "GA-1011",
+    "vehicle_id": "VEH-0011",
+    "vehicle_type": "DRY_VAN"
+  },
+  {
+    "carrier_id": "CARR-002",
+    "has_liftgate": false,
+    "license_plate": "GA-1012",
+    "vehicle_id": "VEH-0012",
+    "vehicle_type": "DRY_VAN"
+  },
+  {
+    "carrier_id": "CARR-003",
+    "has_liftgate": false,
+    "license_plate": "GA-1013",
+    "vehicle_id": "VEH-0013",
+    "vehicle_type": "REEFER"
+  },
+  {
+    "carrier_id": "CARR-004",
+    "has_liftgate": true,
+    "license_plate": "OH-1014",
+    "vehicle_id": "VEH-0014",
+    "vehicle_type": "DRY_VAN"
+  },
+  {
+    "carrier_id": "CARR-005",
+    "has_liftgate": true,
+    "license_plate": "TX-1015",
+    "vehicle_id": "VEH-0015",
+    "vehicle_type": "DRY_VAN"
+  },
+  {
+    "carrier_id": "CARR-006",
+    "has_liftgate": true,
+    "license_plate": "TN-1016",
+    "vehicle_id": "VEH-0016",
+    "vehicle_type": "DRY_VAN"
+  },
+  {
+    "carrier_id": "CARR-007",
+    "has_liftgate": false,
+    "license_plate": "GA-1017",
+    "vehicle_id": "VEH-0017",
+    "vehicle_type": "DRY_VAN"
+  },
+  {
+    "carrier_id": "CARR-008",
+    "has_liftgate": true,
+    "license_plate": "GA-1018",
+    "vehicle_id": "VEH-0018",
+    "vehicle_type": "DRY_VAN"
+  },
+  {
+    "carrier_id": "CARR-009",
+    "has_liftgate": true,
+    "license_plate": "IL-1019",
+    "vehicle_id": "VEH-0019",
+    "vehicle_type": "DRY_VAN"
+  },
+  {
+    "carrier_id": "CARR-010",
+    "has_liftgate": false,
+    "license_plate": "TX-1020",
+    "vehicle_id": "VEH-0020",
+    "vehicle_type": "FLATBED"
+  },
+  {
+    "carrier_id": "CARR-001",
+    "has_liftgate": false,
+    "license_plate": "IL-1021",
+    "vehicle_id": "VEH-0021",
+    "vehicle_type": "BOX_TRUCK"
+  },
+  {
+    "carrier_id": "CARR-002",
+    "has_liftgate": false,
+    "license_plate": "IL-1022",
+    "vehicle_id": "VEH-0022",
+    "vehicle_type": "DRY_VAN"
+  },
+  {
+    "carrier_id": "CARR-003",
+    "has_liftgate": false,
+    "license_plate": "GA-1023",
+    "vehicle_id": "VEH-0023",
+    "vehicle_type": "FLATBED"
+  },
+  {
+    "carrier_id": "CARR-004",
+    "has_liftgate": false,
+    "license_plate": "TX-1024",
+    "vehicle_id": "VEH-0024",
+    "vehicle_type": "BOX_TRUCK"
+  },
+  {
+    "carrier_id": "CARR-005",
+    "has_liftgate": false,
+    "license_plate": "GA-1025",
+    "vehicle_id": "VEH-0025",
+    "vehicle_type": "DRY_VAN"
+  },
+  {
+    "carrier_id": "CARR-006",
+    "has_liftgate": true,
+    "license_plate": "CA-1026",
+    "vehicle_id": "VEH-0026",
+    "vehicle_type": "DRY_VAN"
+  },
+  {
+    "carrier_id": "CARR-007",
+    "has_liftgate": false,
+    "license_plate": "OH-1027",
+    "vehicle_id": "VEH-0027",
+    "vehicle_type": "REEFER"
+  },
+  {
+    "carrier_id": "CARR-008",
+    "has_liftgate": false,
+    "license_plate": "TX-1028",
+    "vehicle_id": "VEH-0028",
+    "vehicle_type": "DRY_VAN"
+  },
+  {
+    "carrier_id": "CARR-009",
+    "has_liftgate": false,
+    "license_plate": "GA-1029",
+    "vehicle_id": "VEH-0029",
+    "vehicle_type": "DRY_VAN"
+  },
+  {
+    "carrier_id": "CARR-010",
+    "has_liftgate": true,
+    "license_plate": "GA-1030",
+    "vehicle_id": "VEH-0030",
+    "vehicle_type": "BOX_TRUCK"
+  },
+  {
+    "carrier_id": "CARR-001",
+    "has_liftgate": false,
+    "license_plate": "OH-1031",
+    "vehicle_id": "VEH-0031",
+    "vehicle_type": "DRY_VAN"
+  },
+  {
+    "carrier_id": "CARR-002",
+    "has_liftgate": false,
+    "license_plate": "TX-1032",
+    "vehicle_id": "VEH-0032",
+    "vehicle_type": "DRY_VAN"
+  },
+  {
+    "carrier_id": "CARR-003",
+    "has_liftgate": false,
+    "license_plate": "TX-1033",
+    "vehicle_id": "VEH-0033",
+    "vehicle_type": "FLATBED"
+  },
+  {
+    "carrier_id": "CARR-004",
+    "has_liftgate": false,
+    "license_plate": "OH-1034",
+    "vehicle_id": "VEH-0034",
+    "vehicle_type": "FLATBED"
+  },
+  {
+    "carrier_id": "CARR-005",
+    "has_liftgate": false,
+    "license_plate": "GA-1035",
+    "vehicle_id": "VEH-0035",
+    "vehicle_type": "DRY_VAN"
+  },
+  {
+    "carrier_id": "CARR-006",
+    "has_liftgate": false,
+    "license_plate": "CA-1036",
+    "vehicle_id": "VEH-0036",
+    "vehicle_type": "BOX_TRUCK"
+  },
+  {
+    "carrier_id": "CARR-007",
+    "has_liftgate": false,
+    "license_plate": "IL-1037",
+    "vehicle_id": "VEH-0037",
+    "vehicle_type": "DRY_VAN"
+  },
+  {
+    "carrier_id": "CARR-008",
+    "has_liftgate": false,
+    "license_plate": "CA-1038",
+    "vehicle_id": "VEH-0038",
+    "vehicle_type": "DRY_VAN"
+  },
+  {
+    "carrier_id": "CARR-009",
+    "has_liftgate": true,
+    "license_plate": "GA-1039",
+    "vehicle_id": "VEH-0039",
+    "vehicle_type": "BOX_TRUCK"
+  },
+  {
+    "carrier_id": "CARR-010",
+    "has_liftgate": true,
+    "license_plate": "IL-1040",
+    "vehicle_id": "VEH-0040",
+    "vehicle_type": "DRY_VAN"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "end_time": "2026-10-22T14:00:00",
+    "facility_id": "FAC-001",
+    "forklift_certified_workers": 6,
+    "hazmat_certified_workers": 3,
+    "shift_date": "2026-10-22",
+    "shift_id": "SHIFT-FAC-001-20261022-01",
+    "start_time": "2026-10-22T06:00:00",
+    "total_workers": 10
+  },
+  {
+    "end_time": "2026-10-22T22:00:00",
+    "facility_id": "FAC-001",
+    "forklift_certified_workers": 3,
+    "hazmat_certified_workers": 2,
+    "shift_date": "2026-10-22",
+    "shift_id": "SHIFT-FAC-001-20261022-02",
+    "start_time": "2026-10-22T14:00:00",
+    "total_workers": 11
+  },
+  {
+    "end_time": "2026-10-23T14:00:00",
+    "facility_id": "FAC-001",
+    "forklift_certified_workers": 6,
+    "hazmat_certified_workers": 3,
+    "shift_date": "2026-10-23",
+    "shift_id": "SHIFT-FAC-001-20261023-01",
+    "start_time": "2026-10-23T06:00:00",
+    "total_workers": 11
+  },
+  {
+    "end_time": "2026-10-23T22:00:00",
+    "facility_id": "FAC-001",
+    "forklift_certified_workers": 4,
+    "hazmat_certified_workers": 2,
+    "shift_date": "2026-10-23",
+    "shift_id": "SHIFT-FAC-001-20261023-02",
+    "start_time": "2026-10-23T14:00:00",
+    "total_workers": 7
+  },
+  {
+    "end_time": "2026-10-24T14:00:00",
+    "facility_id": "FAC-001",
+    "forklift_certified_workers": 6,
+    "hazmat_certified_workers": 4,
+    "shift_date": "2026-10-24",
+    "shift_id": "SHIFT-FAC-001-20261024-01",
+    "start_time": "2026-10-24T06:00:00",
+    "total_workers": 11
+  },
+  {
+    "end_time": "2026-10-24T22:00:00",
+    "facility_id": "FAC-001",
+    "forklift_certified_workers": 4,
+    "hazmat_certified_workers": 3,
+    "shift_date": "2026-10-24",
+    "shift_id": "SHIFT-FAC-001-20261024-02",
+    "start_time": "2026-10-24T14:00:00",
+    "total_workers": 12
+  },
+  {
+    "end_time": "2026-10-25T14:00:00",
+    "facility_id": "FAC-001",
+    "forklift_certified_workers": 7,
+    "hazmat_certified_workers": 3,
+    "shift_date": "2026-10-25",
+    "shift_id": "SHIFT-FAC-001-20261025-01",
+    "start_time": "2026-10-25T06:00:00",
+    "total_workers": 8
+  },
+  {
+    "end_time": "2026-10-25T22:00:00",
+    "facility_id": "FAC-001",
+    "forklift_certified_workers": 5,
+    "hazmat_certified_workers": 3,
+    "shift_date": "2026-10-25",
+    "shift_id": "SHIFT-FAC-001-20261025-02",
+    "start_time": "2026-10-25T14:00:00",
+    "total_workers": 6
+  },
+  {
+    "end_time": "2026-10-26T14:00:00",
+    "facility_id": "FAC-001",
+    "forklift_certified_workers": 7,
+    "hazmat_certified_workers": 3,
+    "shift_date": "2026-10-26",
+    "shift_id": "SHIFT-FAC-001-20261026-01",
+    "start_time": "2026-10-26T06:00:00",
+    "total_workers": 13
+  },
+  {
+    "end_time": "2026-10-26T22:00:00",
+    "facility_id": "FAC-001",
+    "forklift_certified_workers": 5,
+    "hazmat_certified_workers": 2,
+    "shift_date": "2026-10-26",
+    "shift_id": "SHIFT-FAC-001-20261026-02",
+    "start_time": "2026-10-26T14:00:00",
+    "total_workers": 6
+  },
+  {
+    "end_time": "2026-10-27T14:00:00",
+    "facility_id": "FAC-001",
+    "forklift_certified_workers": 6,
+    "hazmat_certified_workers": 2,
+    "shift_date": "2026-10-27",
+    "shift_id": "SHIFT-FAC-001-20261027-01",
+    "start_time": "2026-10-27T06:00:00",
+    "total_workers": 14
+  },
+  {
+    "end_time": "2026-10-27T22:00:00",
+    "facility_id": "FAC-001",
+    "forklift_certified_workers": 5,
+    "hazmat_certified_workers": 2,
+    "shift_date": "2026-10-27",
+    "shift_id": "SHIFT-FAC-001-20261027-02",
+    "start_time": "2026-10-27T14:00:00",
+    "total_workers": 8
+  },
+  {
+    "end_time": "2026-10-28T14:00:00",
+    "facility_id": "FAC-001",
+    "forklift_certified_workers": 6,
+    "hazmat_certified_workers": 2,
+    "shift_date": "2026-10-28",
+    "shift_id": "SHIFT-FAC-001-20261028-01",
+    "start_time": "2026-10-28T06:00:00",
+    "total_workers": 8
+  },
+  {
+    "end_time": "2026-10-28T22:00:00",
+    "facility_id": "FAC-001",
+    "forklift_certified_workers": 6,
+    "hazmat_certified_workers": 3,
+    "shift_date": "2026-10-28",
+    "shift_id": "SHIFT-FAC-001-20261028-02",
+    "start_time": "2026-10-28T14:00:00",
+    "total_workers": 10
+  },
+  {
+    "end_time": "2026-10-22T14:00:00",
+    "facility_id": "FAC-002",
+    "forklift_certified_workers": 5,
+    "hazmat_certified_workers": 3,
+    "shift_date": "2026-10-22",
+    "shift_id": "SHIFT-FAC-002-20261022-01",
+    "start_time": "2026-10-22T06:00:00",
+    "total_workers": 13
+  },
+  {
+    "end_time": "2026-10-22T22:00:00",
+    "facility_id": "FAC-002",
+    "forklift_certified_workers": 4,
+    "hazmat_certified_workers": 3,
+    "shift_date": "2026-10-22",
+    "shift_id": "SHIFT-FAC-002-20261022-02",
+    "start_time": "2026-10-22T14:00:00",
+    "total_workers": 10
+  },
+  {
+    "end_time": "2026-10-23T14:00:00",
+    "facility_id": "FAC-002",
+    "forklift_certified_workers": 4,
+    "hazmat_certified_workers": 4,
+    "shift_date": "2026-10-23",
+    "shift_id": "SHIFT-FAC-002-20261023-01",
+    "start_time": "2026-10-23T06:00:00",
+    "total_workers": 9
+  },
+  {
+    "end_time": "2026-10-23T22:00:00",
+    "facility_id": "FAC-002",
+    "forklift_certified_workers": 6,
+    "hazmat_certified_workers": 3,
+    "shift_date": "2026-10-23",
+    "shift_id": "SHIFT-FAC-002-20261023-02",
+    "start_time": "2026-10-23T14:00:00",
+    "total_workers": 8
+  },
+  {
+    "end_time": "2026-10-24T14:00:00",
+    "facility_id": "FAC-002",
+    "forklift_certified_workers": 5,
+    "hazmat_certified_workers": 3,
+    "shift_date": "2026-10-24",
+    "shift_id": "SHIFT-FAC-002-20261024-01",
+    "start_time": "2026-10-24T06:00:00",
+    "total_workers": 12
+  },
+  {
+    "end_time": "2026-10-24T22:00:00",
+    "facility_id": "FAC-002",
+    "forklift_certified_workers": 3,
+    "hazmat_certified_workers": 3,
+    "shift_date": "2026-10-24",
+    "shift_id": "SHIFT-FAC-002-20261024-02",
+    "start_time": "2026-10-24T14:00:00",
+    "total_workers": 9
+  },
+  {
+    "end_time": "2026-10-25T14:00:00",
+    "facility_id": "FAC-002",
+    "forklift_certified_workers": 6,
+    "hazmat_certified_workers": 4,
+    "shift_date": "2026-10-25",
+    "shift_id": "SHIFT-FAC-002-20261025-01",
+    "start_time": "2026-10-25T06:00:00",
+    "total_workers": 8
+  },
+  {
+    "end_time": "2026-10-25T22:00:00",
+    "facility_id": "FAC-002",
+    "forklift_certified_workers": 3,
+    "hazmat_certified_workers": 3,
+    "shift_date": "2026-10-25",
+    "shift_id": "SHIFT-FAC-002-20261025-02",
+    "start_time": "2026-10-25T14:00:00",
+    "total_workers": 8
+  },
+  {
+    "end_time": "2026-10-26T14:00:00",
+    "facility_id": "FAC-002",
+    "forklift_certified_workers": 5,
+    "hazmat_certified_workers": 2,
+    "shift_date": "2026-10-26",
+    "shift_id": "SHIFT-FAC-002-20261026-01",
+    "start_time": "2026-10-26T06:00:00",
+    "total_workers": 9
+  },
+  {
+    "end_time": "2026-10-26T22:00:00",
+    "facility_id": "FAC-002",
+    "forklift_certified_workers": 3,
+    "hazmat_certified_workers": 3,
+    "shift_date": "2026-10-26",
+    "shift_id": "SHIFT-FAC-002-20261026-02",
+    "start_time": "2026-10-26T14:00:00",
+    "total_workers": 6
+  },
+  {
+    "end_time": "2026-10-27T14:00:00",
+    "facility_id": "FAC-002",
+    "forklift_certified_workers": 5,
+    "hazmat_certified_workers": 3,
+    "shift_date": "2026-10-27",
+    "shift_id": "SHIFT-FAC-002-20261027-01",
+    "start_time": "2026-10-27T06:00:00",
+    "total_workers": 12
+  },
+  {
+    "end_time": "2026-10-27T22:00:00",
+    "facility_id": "FAC-002",
+    "forklift_certified_workers": 0,
+    "hazmat_certified_workers": 3,
+    "shift_date": "2026-10-27",
+    "shift_id": "SHIFT-FAC-002-20261027-02",
+    "start_time": "2026-10-27T14:00:00",
+    "total_workers": 12
+  },
+  {
+    "end_time": "2026-10-28T14:00:00",
+    "facility_id": "FAC-002",
+    "forklift_certified_workers": 6,
+    "hazmat_certified_workers": 3,
+    "shift_date": "2026-10-28",
+    "shift_id": "SHIFT-FAC-002-20261028-01",
+    "start_time": "2026-10-28T06:00:00",
+    "total_workers": 9
+  },
+  {
+    "end_time": "2026-10-28T22:00:00",
+    "facility_id": "FAC-002",
+    "forklift_certified_workers": 3,
+    "hazmat_certified_workers": 3,
+    "shift_date": "2026-10-28",
+    "shift_id": "SHIFT-FAC-002-20261028-02",
+    "start_time": "2026-10-28T14:00:00",
+    "total_workers": 8
+  }
+]

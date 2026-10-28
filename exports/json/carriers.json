@@ -1,0 +1,62 @@
+[
+  {
+    "carrier_id": "CARR-001",
+    "is_active": true,
+    "name": "Apex Logistics CARR-001",
+    "scac_code": "APE1"
+  },
+  {
+    "carrier_id": "CARR-002",
+    "is_active": true,
+    "name": "Blue Horizon Freight CARR-002",
+    "scac_code": "BHR2"
+  },
+  {
+    "carrier_id": "CARR-003",
+    "is_active": true,
+    "name": "Cardinal Express CARR-003",
+    "scac_code": "CAR3"
+  },
+  {
+    "carrier_id": "CARR-004",
+    "is_active": true,
+    "name": "Delta Transport CARR-004",
+    "scac_code": "DLT4"
+  },
+  {
+    "carrier_id": "CARR-005",
+    "is_active": true,
+    "name": "Eagle Linehaul CARR-005",
+    "scac_code": "EAG5"
+  },
+  {
+    "carrier_id": "CARR-006",
+    "is_active": true,
+    "name": "Falcon Logistics CARR-006",
+    "scac_code": "FAL6"
+  },
+  {
+    "carrier_id": "CARR-007",
+    "is_active": true,
+    "name": "Golden Gate Hauling CARR-007",
+    "scac_code": "GGH7"
+  },
+  {
+    "carrier_id": "CARR-008",
+    "is_active": true,
+    "name": "Highland Freightways CARR-008",
+    "scac_code": "HGF8"
+  },
+  {
+    "carrier_id": "CARR-009",
+    "is_active": true,
+    "name": "Ironclad Carriers CARR-009",
+    "scac_code": "IRN9"
+  },
+  {
+    "carrier_id": "CARR-010",
+    "is_active": true,
+    "name": "Jupiter Transport CARR-010",
+    "scac_code": "JUP0"
+  }
+]

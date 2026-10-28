@@ -1,0 +1,27 @@
+[
+  {
+    "code": "REEFER",
+    "description": "Refrigerated / Temperature-controlled cold chain cargo",
+    "requirement_id": "REQ-001"
+  },
+  {
+    "code": "HAZMAT",
+    "description": "Hazardous materials requiring certified handling and spill containment",
+    "requirement_id": "REQ-002"
+  },
+  {
+    "code": "FRAGILE",
+    "description": "High-value fragile items requiring gentle handling and strap restraints",
+    "requirement_id": "REQ-003"
+  },
+  {
+    "code": "LIFTGATE",
+    "description": "Requires hydraulic liftgate loading or ground-level dock leveler",
+    "requirement_id": "REQ-004"
+  },
+  {
+    "code": "OVERSIZED",
+    "description": "Oversized pallets or non-standard footprint cargo",
+    "requirement_id": "REQ-005"
+  }
+]

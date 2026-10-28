@@ -1,0 +1,3 @@
+facility_id,is_active,name,operating_end_hour,operating_start_hour,timezone,total_yard_slots
+FAC-001,True,Dallas Central DC FAC-001,22,6,America/Chicago,15
+FAC-002,True,Chicago Logistics Hub FAC-002,22,6,America/Chicago,15

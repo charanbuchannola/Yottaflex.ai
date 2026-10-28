@@ -1,0 +1,202 @@
+[
+  {
+    "dock_id": "DOCK-FAC-001-001",
+    "dock_number": "Bay-01",
+    "dock_type": "OUTBOUND",
+    "facility_id": "FAC-001",
+    "has_cold_chain": false,
+    "has_dock_leveler": true,
+    "has_hazmat_permit": false,
+    "is_active": true
+  },
+  {
+    "dock_id": "DOCK-FAC-001-002",
+    "dock_number": "Bay-02",
+    "dock_type": "INBOUND",
+    "facility_id": "FAC-001",
+    "has_cold_chain": false,
+    "has_dock_leveler": true,
+    "has_hazmat_permit": false,
+    "is_active": true
+  },
+  {
+    "dock_id": "DOCK-FAC-001-003",
+    "dock_number": "Bay-03",
+    "dock_type": "INBOUND",
+    "facility_id": "FAC-001",
+    "has_cold_chain": false,
+    "has_dock_leveler": true,
+    "has_hazmat_permit": true,
+    "is_active": true
+  },
+  {
+    "dock_id": "DOCK-FAC-001-004",
+    "dock_number": "Bay-04",
+    "dock_type": "INBOUND",
+    "facility_id": "FAC-001",
+    "has_cold_chain": false,
+    "has_dock_leveler": true,
+    "has_hazmat_permit": false,
+    "is_active": true
+  },
+  {
+    "dock_id": "DOCK-FAC-001-005",
+    "dock_number": "Bay-05",
+    "dock_type": "OUTBOUND",
+    "facility_id": "FAC-001",
+    "has_cold_chain": true,
+    "has_dock_leveler": true,
+    "has_hazmat_permit": false,
+    "is_active": true
+  },
+  {
+    "dock_id": "DOCK-FAC-001-006",
+    "dock_number": "Bay-06",
+    "dock_type": "INBOUND",
+    "facility_id": "FAC-001",
+    "has_cold_chain": true,
+    "has_dock_leveler": true,
+    "has_hazmat_permit": false,
+    "is_active": true
+  },
+  {
+    "dock_id": "DOCK-FAC-001-007",
+    "dock_number": "Bay-07",
+    "dock_type": "INBOUND",
+    "facility_id": "FAC-001",
+    "has_cold_chain": true,
+    "has_dock_leveler": true,
+    "has_hazmat_permit": true,
+    "is_active": true
+  },
+  {
+    "dock_id": "DOCK-FAC-001-008",
+    "dock_number": "Bay-08",
+    "dock_type": "INBOUND",
+    "facility_id": "FAC-001",
+    "has_cold_chain": true,
+    "has_dock_leveler": true,
+    "has_hazmat_permit": false,
+    "is_active": true
+  },
+  {
+    "dock_id": "DOCK-FAC-001-009",
+    "dock_number": "Bay-09",
+    "dock_type": "INBOUND",
+    "facility_id": "FAC-001",
+    "has_cold_chain": false,
+    "has_dock_leveler": true,
+    "has_hazmat_permit": false,
+    "is_active": true
+  },
+  {
+    "dock_id": "DOCK-FAC-001-010",
+    "dock_number": "Bay-10",
+    "dock_type": "OUTBOUND",
+    "facility_id": "FAC-001",
+    "has_cold_chain": false,
+    "has_dock_leveler": true,
+    "has_hazmat_permit": false,
+    "is_active": true
+  },
+  {
+    "dock_id": "DOCK-FAC-002-001",
+    "dock_number": "Bay-01",
+    "dock_type": "INBOUND",
+    "facility_id": "FAC-002",
+    "has_cold_chain": true,
+    "has_dock_leveler": true,
+    "has_hazmat_permit": false,
+    "is_active": true
+  },
+  {
+    "dock_id": "DOCK-FAC-002-002",
+    "dock_number": "Bay-02",
+    "dock_type": "CROSS_DOCK",
+    "facility_id": "FAC-002",
+    "has_cold_chain": false,
+    "has_dock_leveler": true,
+    "has_hazmat_permit": true,
+    "is_active": true
+  },
+  {
+    "dock_id": "DOCK-FAC-002-003",
+    "dock_number": "Bay-03",
+    "dock_type": "OUTBOUND",
+    "facility_id": "FAC-002",
+    "has_cold_chain": false,
+    "has_dock_leveler": true,
+    "has_hazmat_permit": false,
+    "is_active": true
+  },
+  {
+    "dock_id": "DOCK-FAC-002-004",
+    "dock_number": "Bay-04",
+    "dock_type": "OUTBOUND",
+    "facility_id": "FAC-002",
+    "has_cold_chain": false,
+    "has_dock_leveler": true,
+    "has_hazmat_permit": false,
+    "is_active": true
+  },
+  {
+    "dock_id": "DOCK-FAC-002-005",
+    "dock_number": "Bay-05",
+    "dock_type": "INBOUND",
+    "facility_id": "FAC-002",
+    "has_cold_chain": false,
+    "has_dock_leveler": true,
+    "has_hazmat_permit": false,
+    "is_active": true
+  },
+  {
+    "dock_id": "DOCK-FAC-002-006",
+    "dock_number": "Bay-06",
+    "dock_type": "INBOUND",
+    "facility_id": "FAC-002",
+    "has_cold_chain": false,
+    "has_dock_leveler": true,
+    "has_hazmat_permit": false,
+    "is_active": true
+  },
+  {
+    "dock_id": "DOCK-FAC-002-007",
+    "dock_number": "Bay-07",
+    "dock_type": "OUTBOUND",
+    "facility_id": "FAC-002",
+    "has_cold_chain": false,
+    "has_dock_leveler": true,
+    "has_hazmat_permit": false,
+    "is_active": true
+  },
+  {
+    "dock_id": "DOCK-FAC-002-008",
+    "dock_number": "Bay-08",
+    "dock_type": "OUTBOUND",
+    "facility_id": "FAC-002",
+    "has_cold_chain": false,
+    "has_dock_leveler": true,
+    "has_hazmat_permit": false,
+    "is_active": true
+  },
+  {
+    "dock_id": "DOCK-FAC-002-009",
+    "dock_number": "Bay-09",
+    "dock_type": "CROSS_DOCK",
+    "facility_id": "FAC-002",
+    "has_cold_chain": true,
+    "has_dock_leveler": true,
+    "has_hazmat_permit": false,
+    "is_active": true
+  },
+  {
+    "dock_id": "DOCK-FAC-002-010",
+    "dock_number": "Bay-10",
+    "dock_type": "OUTBOUND",
+    "facility_id": "FAC-002",
+    "has_cold_chain": true,
+    "has_dock_leveler": true,
+    "has_hazmat_permit": true,
+    "is_active": true
+  }
+]

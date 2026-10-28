@@ -1,0 +1,46 @@
+[
+  {
+    "dock_id": "DOCK-FAC-001-003",
+    "requirement_id": "REQ-002"
+  },
+  {
+    "dock_id": "DOCK-FAC-001-005",
+    "requirement_id": "REQ-001"
+  },
+  {
+    "dock_id": "DOCK-FAC-001-006",
+    "requirement_id": "REQ-001"
+  },
+  {
+    "dock_id": "DOCK-FAC-001-007",
+    "requirement_id": "REQ-001"
+  },
+  {
+    "dock_id": "DOCK-FAC-001-007",
+    "requirement_id": "REQ-002"
+  },
+  {
+    "dock_id": "DOCK-FAC-001-008",
+    "requirement_id": "REQ-001"
+  },
+  {
+    "dock_id": "DOCK-FAC-002-001",
+    "requirement_id": "REQ-001"
+  },
+  {
+    "dock_id": "DOCK-FAC-002-002",
+    "requirement_id": "REQ-002"
+  },
+  {
+    "dock_id": "DOCK-FAC-002-009",
+    "requirement_id": "REQ-001"
+  },
+  {
+    "dock_id": "DOCK-FAC-002-010",
+    "requirement_id": "REQ-001"
+  },
+  {
+    "dock_id": "DOCK-FAC-002-010",
+    "requirement_id": "REQ-002"
+  }
+]

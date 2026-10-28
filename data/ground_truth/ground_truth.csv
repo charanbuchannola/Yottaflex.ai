@@ -1,0 +1,8 @@
+record_id,entity_type,scenario_id,issue_type,expected_decision,ground_truth_label,root_cause,is_injected_anomaly
+APPT-2026-000002,APPOINTMENT,SCEN-01,OVERLAPPING_APPOINTMENTS,REJECT,ANOMALY_OVERLAP,Simultaneous reservation on DOCK-FAC-001-005 overlapping with APPT-2026-000001.,True
+APPT-2026-000003,APPOINTMENT,SCEN-02,INCOMPATIBLE_DOCK,REJECT,ANOMALY_INCOMPATIBLE_DOCK,Shipment requiring HAZMAT permit assigned to non-certified dock DOCK-FAC-001-004.,True
+APPT-2026-000004,APPOINTMENT,SCEN-03,PRE_DATE_CHECKIN,EXCEPTION_FLAG,ANOMALY_PRE_DATE_CHECKIN,Driver attempted gate check-in 24 hours prior to scheduled calendar date.,True
+APPT-2026-000008,APPOINTMENT,SCEN-04,LABOR_UNAVAILABLE,REJECT,ANOMALY_LABOR_UNAVAILABLE,Active labor shift has zero forklift certified operators during service window.,True
+APPT-2026-000001,APPOINTMENT,SCEN-05,UNRECORDED_NO_SHOW,DETECT_ABSENCE,ANOMALY_UNRECORDED_NO_SHOW,Vehicle failed to check in within 120-minute post-appointment observation window.,True
+APPT-2026-000005,APPOINTMENT,SCEN-06,EARLY_ARRIVAL,QUEUE_WAIT,OPERATIONAL_EARLY_ARRIVAL,Carrier vehicle arrived 180 minutes prior to scheduled start; staged in yard slot.,True
+APPT-2026-000019,APPOINTMENT,SCEN-07,PEAK_CONGESTION,REJECT,CONGESTION_REJECTION,Excess demand during peak diurnal dispatch window exceeded available dock capacity.,True

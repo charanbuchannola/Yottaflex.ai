@@ -1,0 +1,212 @@
+[
+  {
+    "facility_id": "FAC-001",
+    "is_occupied": false,
+    "slot_number": "Y-01",
+    "slot_type": "STANDARD",
+    "yard_slot_id": "YARD-FAC-001-001"
+  },
+  {
+    "facility_id": "FAC-001",
+    "is_occupied": false,
+    "slot_number": "Y-02",
+    "slot_type": "STANDARD",
+    "yard_slot_id": "YARD-FAC-001-002"
+  },
+  {
+    "facility_id": "FAC-001",
+    "is_occupied": false,
+    "slot_number": "Y-03",
+    "slot_type": "STANDARD",
+    "yard_slot_id": "YARD-FAC-001-003"
+  },
+  {
+    "facility_id": "FAC-001",
+    "is_occupied": false,
+    "slot_number": "Y-04",
+    "slot_type": "STANDARD",
+    "yard_slot_id": "YARD-FAC-001-004"
+  },
+  {
+    "facility_id": "FAC-001",
+    "is_occupied": false,
+    "slot_number": "Y-05",
+    "slot_type": "STANDARD",
+    "yard_slot_id": "YARD-FAC-001-005"
+  },
+  {
+    "facility_id": "FAC-001",
+    "is_occupied": false,
+    "slot_number": "Y-06",
+    "slot_type": "STANDARD",
+    "yard_slot_id": "YARD-FAC-001-006"
+  },
+  {
+    "facility_id": "FAC-001",
+    "is_occupied": false,
+    "slot_number": "Y-07",
+    "slot_type": "REEFER_PLUG",
+    "yard_slot_id": "YARD-FAC-001-007"
+  },
+  {
+    "facility_id": "FAC-001",
+    "is_occupied": false,
+    "slot_number": "Y-08",
+    "slot_type": "STANDARD",
+    "yard_slot_id": "YARD-FAC-001-008"
+  },
+  {
+    "facility_id": "FAC-001",
+    "is_occupied": false,
+    "slot_number": "Y-09",
+    "slot_type": "REEFER_PLUG",
+    "yard_slot_id": "YARD-FAC-001-009"
+  },
+  {
+    "facility_id": "FAC-001",
+    "is_occupied": false,
+    "slot_number": "Y-10",
+    "slot_type": "STAGING",
+    "yard_slot_id": "YARD-FAC-001-010"
+  },
+  {
+    "facility_id": "FAC-001",
+    "is_occupied": false,
+    "slot_number": "Y-11",
+    "slot_type": "STANDARD",
+    "yard_slot_id": "YARD-FAC-001-011"
+  },
+  {
+    "facility_id": "FAC-001",
+    "is_occupied": false,
+    "slot_number": "Y-12",
+    "slot_type": "STANDARD",
+    "yard_slot_id": "YARD-FAC-001-012"
+  },
+  {
+    "facility_id": "FAC-001",
+    "is_occupied": false,
+    "slot_number": "Y-13",
+    "slot_type": "STANDARD",
+    "yard_slot_id": "YARD-FAC-001-013"
+  },
+  {
+    "facility_id": "FAC-001",
+    "is_occupied": false,
+    "slot_number": "Y-14",
+    "slot_type": "STANDARD",
+    "yard_slot_id": "YARD-FAC-001-014"
+  },
+  {
+    "facility_id": "FAC-001",
+    "is_occupied": false,
+    "slot_number": "Y-15",
+    "slot_type": "STANDARD",
+    "yard_slot_id": "YARD-FAC-001-015"
+  },
+  {
+    "facility_id": "FAC-002",
+    "is_occupied": false,
+    "slot_number": "Y-01",
+    "slot_type": "STANDARD",
+    "yard_slot_id": "YARD-FAC-002-001"
+  },
+  {
+    "facility_id": "FAC-002",
+    "is_occupied": false,
+    "slot_number": "Y-02",
+    "slot_type": "STANDARD",
+    "yard_slot_id": "YARD-FAC-002-002"
+  },
+  {
+    "facility_id": "FAC-002",
+    "is_occupied": false,
+    "slot_number": "Y-03",
+    "slot_type": "STANDARD",
+    "yard_slot_id": "YARD-FAC-002-003"
+  },
+  {
+    "facility_id": "FAC-002",
+    "is_occupied": false,
+    "slot_number": "Y-04",
+    "slot_type": "STANDARD",
+    "yard_slot_id": "YARD-FAC-002-004"
+  },
+  {
+    "facility_id": "FAC-002",
+    "is_occupied": false,
+    "slot_number": "Y-05",
+    "slot_type": "STANDARD",
+    "yard_slot_id": "YARD-FAC-002-005"
+  },
+  {
+    "facility_id": "FAC-002",
+    "is_occupied": false,
+    "slot_number": "Y-06",
+    "slot_type": "STANDARD",
+    "yard_slot_id": "YARD-FAC-002-006"
+  },
+  {
+    "facility_id": "FAC-002",
+    "is_occupied": false,
+    "slot_number": "Y-07",
+    "slot_type": "STANDARD",
+    "yard_slot_id": "YARD-FAC-002-007"
+  },
+  {
+    "facility_id": "FAC-002",
+    "is_occupied": false,
+    "slot_number": "Y-08",
+    "slot_type": "STAGING",
+    "yard_slot_id": "YARD-FAC-002-008"
+  },
+  {
+    "facility_id": "FAC-002",
+    "is_occupied": false,
+    "slot_number": "Y-09",
+    "slot_type": "STANDARD",
+    "yard_slot_id": "YARD-FAC-002-009"
+  },
+  {
+    "facility_id": "FAC-002",
+    "is_occupied": false,
+    "slot_number": "Y-10",
+    "slot_type": "STANDARD",
+    "yard_slot_id": "YARD-FAC-002-010"
+  },
+  {
+    "facility_id": "FAC-002",
+    "is_occupied": false,
+    "slot_number": "Y-11",
+    "slot_type": "REEFER_PLUG",
+    "yard_slot_id": "YARD-FAC-002-011"
+  },
+  {
+    "facility_id": "FAC-002",
+    "is_occupied": false,
+    "slot_number": "Y-12",
+    "slot_type": "STANDARD",
+    "yard_slot_id": "YARD-FAC-002-012"
+  },
+  {
+    "facility_id": "FAC-002",
+    "is_occupied": false,
+    "slot_number": "Y-13",
+    "slot_type": "REEFER_PLUG",
+    "yard_slot_id": "YARD-FAC-002-013"
+  },
+  {
+    "facility_id": "FAC-002",
+    "is_occupied": false,
+    "slot_number": "Y-14",
+    "slot_type": "STAGING",
+    "yard_slot_id": "YARD-FAC-002-014"
+  },
+  {
+    "facility_id": "FAC-002",
+    "is_occupied": false,
+    "slot_number": "Y-15",
+    "slot_type": "STANDARD",
+    "yard_slot_id": "YARD-FAC-002-015"
+  }
+]

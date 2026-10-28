@@ -1,0 +1,20 @@
+[
+  {
+    "facility_id": "FAC-001",
+    "is_active": true,
+    "name": "Dallas Central DC FAC-001",
+    "operating_end_hour": 22,
+    "operating_start_hour": 6,
+    "timezone": "America/Chicago",
+    "total_yard_slots": 15
+  },
+  {
+    "facility_id": "FAC-002",
+    "is_active": true,
+    "name": "Chicago Logistics Hub FAC-002",
+    "operating_end_hour": 22,
+    "operating_start_hour": 6,
+    "timezone": "America/Chicago",
+    "total_yard_slots": 15
+  }
+]

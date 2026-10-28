@@ -1,0 +1,6 @@
+code,description,requirement_id
+REEFER,Refrigerated / Temperature-controlled cold chain cargo,REQ-001
+HAZMAT,Hazardous materials requiring certified handling and spill containment,REQ-002
+FRAGILE,High-value fragile items requiring gentle handling and strap restraints,REQ-003
+LIFTGATE,Requires hydraulic liftgate loading or ground-level dock leveler,REQ-004
+OVERSIZED,Oversized pallets or non-standard footprint cargo,REQ-005

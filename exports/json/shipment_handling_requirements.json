@@ -1,0 +1,1694 @@
+[
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000001"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000001"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000002"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000003"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000004"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000005"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000008"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000009"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000010"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000010"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000012"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000015"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000017"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000019"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000021"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000022"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000024"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000025"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000029"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000033"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000036"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000038"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000038"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000039"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000041"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000043"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000046"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000048"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000048"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000048"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000050"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000050"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000052"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000053"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000057"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000059"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000061"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000063"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000065"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000067"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000070"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000074"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000081"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000083"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000088"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000092"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000092"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000095"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000096"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000097"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000099"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000100"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000102"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000103"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000103"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000105"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000107"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000110"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000115"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000118"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000119"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000120"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000122"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000128"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000128"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000131"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000133"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000138"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000139"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000148"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000153"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000155"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000155"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000157"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000160"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000160"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000160"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000162"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000165"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000165"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000166"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000167"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000167"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000168"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000169"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000171"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000172"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000172"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000176"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000176"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000183"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000186"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000187"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000189"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000190"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000192"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000198"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000200"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000203"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000206"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000208"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000208"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000209"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000210"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000214"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000214"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000216"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000217"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000221"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000221"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000223"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000227"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000228"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000234"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000240"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000241"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000243"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000248"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000248"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000249"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000252"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000253"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000256"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000262"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000262"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000267"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000270"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000272"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000274"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000278"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000279"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000281"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000282"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000287"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000290"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000292"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000293"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000293"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000294"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000296"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000300"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000303"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000304"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000304"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000305"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000306"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000311"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000312"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000313"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000314"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000317"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000318"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000322"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000324"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000324"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000326"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000326"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000327"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000329"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000330"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000331"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000334"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000336"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000342"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000345"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000346"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000347"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000349"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000350"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000352"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000353"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000354"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000356"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000357"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000358"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000360"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000365"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000367"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000368"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000368"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000376"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000378"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000379"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000379"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000379"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000386"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000389"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000392"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000395"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000396"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000403"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000404"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000404"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000405"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000406"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000411"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000416"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000416"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000419"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000421"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000421"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000423"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000424"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000431"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000432"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000434"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000437"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000443"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000449"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000449"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000449"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000451"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000451"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000452"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000454"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000455"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000457"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000459"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000461"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000461"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000462"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000463"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000468"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000471"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000480"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000486"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000490"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000498"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000501"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000503"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000506"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000507"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000509"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000511"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000512"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000514"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000520"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000522"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000523"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000525"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000526"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000527"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000527"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000541"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000542"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000549"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000559"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000560"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000561"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000562"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000562"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000565"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000566"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000567"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000568"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000579"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000579"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000587"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000587"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000589"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000597"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000599"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000603"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000607"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000609"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000612"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000614"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000615"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000618"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000620"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000623"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000627"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000629"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000631"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000633"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000638"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000639"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000644"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000646"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000648"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000649"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000651"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000652"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000653"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000654"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000658"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000661"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000662"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000669"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000671"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000675"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000677"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000678"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000679"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000680"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000681"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000687"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000688"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000691"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000691"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000694"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000702"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000703"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000711"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000712"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000712"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000713"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000716"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000719"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000720"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000720"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000721"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000725"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000726"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000731"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000733"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000739"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000741"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000749"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000752"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000760"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000761"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000765"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000766"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000768"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000769"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000771"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000773"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000779"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000782"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000783"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000783"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000787"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000788"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000790"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000790"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000798"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000801"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000808"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000811"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000819"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000822"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000822"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000824"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000825"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000828"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000829"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000829"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000830"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000831"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000832"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000834"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000837"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000840"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000850"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000850"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000853"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000855"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000855"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000856"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000856"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000860"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000861"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000861"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000863"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000865"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000866"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000871"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000874"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000885"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000886"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000886"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000888"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000892"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000892"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000893"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000894"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000896"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000899"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000900"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000901"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000904"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000908"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "shipment_id": "SHP-2026-000912"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000913"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000913"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000916"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000918"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000922"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000927"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000941"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000942"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000943"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000944"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000945"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000946"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000947"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000954"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000954"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000955"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000959"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000961"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000963"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000963"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000967"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000967"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000971"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000975"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000976"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000977"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000980"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000981"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000981"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000982"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000987"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000989"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000990"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000990"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000992"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000996"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "shipment_id": "SHP-2026-000996"
+  },
+  {
+    "requirement_id": "REQ-001",
+    "shipment_id": "SHP-2026-000999"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "shipment_id": "SHP-2026-000999"
+  }
+]

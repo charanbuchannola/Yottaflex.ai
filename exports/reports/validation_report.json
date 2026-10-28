@@ -1,0 +1,136 @@
+{
+  "checks_executed": 19,
+  "checks_failed": 4,
+  "checks_passed": 15,
+  "executed_at": "2026-10-22T00:00:00Z",
+  "expected_violations_detected": 16,
+  "final_validation_status": "PASSED",
+  "profile": "STARTER",
+  "run_id": "VAL-RUN-STARTER",
+  "seed": 20261022,
+  "timestamp_policy": "UTC ISO-8601",
+  "total_records_checked": 6872,
+  "unexpected_violations_detected": 0,
+  "violations_by_rule": {
+    "VAL-CAP-001": [
+      {
+        "entity_type": "APPOINTMENT",
+        "is_expected_anomaly": true,
+        "message": "Overlapping appointment on dock DOCK-FAC-001-005 with APPT-2026-000001",
+        "record_id": "APPT-2026-000002",
+        "scenario_id": "SCEN-01"
+      }
+    ],
+    "VAL-FSM-001": [
+      {
+        "entity_type": "APPOINTMENT",
+        "is_expected_anomaly": true,
+        "message": "Unrecorded absence: Allocated appointment has zero check-in events past service window",
+        "record_id": "APPT-2026-000001",
+        "scenario_id": "SCEN-05"
+      }
+    ],
+    "VAL-HOURS-001": [
+      {
+        "entity_type": "CHECK_IN_EVENT",
+        "is_expected_anomaly": true,
+        "message": "Check-in date 2026-10-25 precedes scheduled date 2026-10-26",
+        "record_id": "CHECK-APPT-2026-000004-04",
+        "scenario_id": "SCEN-03"
+      }
+    ],
+    "VAL-LAB-001": [
+      {
+        "entity_type": "APPOINTMENT",
+        "is_expected_anomaly": true,
+        "message": "Labor shift SHIFT-FAC-002-20261027-02 has 0 forklift certified workers during service",
+        "record_id": "APPT-2026-000008",
+        "scenario_id": "SCEN-04"
+      },
+      {
+        "entity_type": "APPOINTMENT",
+        "is_expected_anomaly": true,
+        "message": "Labor shift SHIFT-FAC-002-20261027-02 has 0 forklift certified workers during service",
+        "record_id": "APPT-2026-000086",
+        "scenario_id": "SCEN-04"
+      },
+      {
+        "entity_type": "APPOINTMENT",
+        "is_expected_anomaly": true,
+        "message": "Labor shift SHIFT-FAC-002-20261027-02 has 0 forklift certified workers during service",
+        "record_id": "APPT-2026-000130",
+        "scenario_id": "SCEN-04"
+      },
+      {
+        "entity_type": "APPOINTMENT",
+        "is_expected_anomaly": true,
+        "message": "Labor shift SHIFT-FAC-002-20261027-02 has 0 forklift certified workers during service",
+        "record_id": "APPT-2026-000132",
+        "scenario_id": "SCEN-04"
+      },
+      {
+        "entity_type": "APPOINTMENT",
+        "is_expected_anomaly": true,
+        "message": "Labor shift SHIFT-FAC-002-20261027-02 has 0 forklift certified workers during service",
+        "record_id": "APPT-2026-000148",
+        "scenario_id": "SCEN-04"
+      },
+      {
+        "entity_type": "APPOINTMENT",
+        "is_expected_anomaly": true,
+        "message": "Labor shift SHIFT-FAC-002-20261027-02 has 0 forklift certified workers during service",
+        "record_id": "APPT-2026-000270",
+        "scenario_id": "SCEN-04"
+      },
+      {
+        "entity_type": "APPOINTMENT",
+        "is_expected_anomaly": true,
+        "message": "Labor shift SHIFT-FAC-002-20261027-02 has 0 forklift certified workers during service",
+        "record_id": "APPT-2026-000302",
+        "scenario_id": "SCEN-04"
+      },
+      {
+        "entity_type": "APPOINTMENT",
+        "is_expected_anomaly": true,
+        "message": "Labor shift SHIFT-FAC-002-20261027-02 has 0 forklift certified workers during service",
+        "record_id": "APPT-2026-000452",
+        "scenario_id": "SCEN-04"
+      },
+      {
+        "entity_type": "APPOINTMENT",
+        "is_expected_anomaly": true,
+        "message": "Labor shift SHIFT-FAC-002-20261027-02 has 0 forklift certified workers during service",
+        "record_id": "APPT-2026-000454",
+        "scenario_id": "SCEN-04"
+      },
+      {
+        "entity_type": "APPOINTMENT",
+        "is_expected_anomaly": true,
+        "message": "Labor shift SHIFT-FAC-002-20261027-02 has 0 forklift certified workers during service",
+        "record_id": "APPT-2026-000534",
+        "scenario_id": "SCEN-04"
+      },
+      {
+        "entity_type": "APPOINTMENT",
+        "is_expected_anomaly": true,
+        "message": "Labor shift SHIFT-FAC-002-20261027-02 has 0 forklift certified workers during service",
+        "record_id": "APPT-2026-000694",
+        "scenario_id": "SCEN-04"
+      },
+      {
+        "entity_type": "APPOINTMENT",
+        "is_expected_anomaly": true,
+        "message": "Labor shift SHIFT-FAC-002-20261027-02 has 0 forklift certified workers during service",
+        "record_id": "APPT-2026-000930",
+        "scenario_id": "SCEN-04"
+      },
+      {
+        "entity_type": "APPOINTMENT",
+        "is_expected_anomaly": true,
+        "message": "Labor shift SHIFT-FAC-002-20261027-02 has 0 forklift certified workers during service",
+        "record_id": "APPT-2026-000942",
+        "scenario_id": "SCEN-04"
+      }
+    ]
+  }
+}
